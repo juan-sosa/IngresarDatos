@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IngresarDatos</string>
+    <string name="editTextNombre">Nombre Completo</string>
+    <string name="editTextEmail">Email</string>
+    <string name="editTextTelefono">Telefono</string>
+    <string name="editTextDescripcion">Descripcion de contacto</string>
+    <string name = "editTextIngresarFecha">Ingresar Fecha</string>
+    <string name="textBotton">Siguiente</string>
+    <string name = "textBottonEditarDatos">Editar datos</string>
+
+
+</resources>
